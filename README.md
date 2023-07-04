@@ -1,9 +1,11 @@
 
-###ABOUT
+<h1>ABOUT</h1>
+<hr/>
 This Repository is about The game TIC TAK TOE.
 Tic Tac Toe is traditionally played on a 3 × 3 grid. Players take turns placing a mark in one of the cells of the grid. The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
 
-###How to use this repository
+<hr/>
+<h1>How to use this repository</h1>
 
 This Repository can access by anyone and play the game.You have an open access.
 
