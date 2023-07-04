@@ -13,7 +13,7 @@ This Repository can access by anyone and play the game.You have an open access.
 By using the link to clone this repository to use this game.
 
 
-## Available Scripts
+<h1>Available Scripts</h1>
 
 In the project directory, you can run:
 
