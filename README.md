@@ -7,6 +7,7 @@ Tic Tac Toe is traditionally played on a 3 × 3 grid. Players take turns placing
 
 This Repository can access by anyone and play the game.You have an open access.
 
+# Github
 
 ### `https://github.com/Dinesh-db/Tic-Toe.git`
 
