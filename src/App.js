@@ -30,7 +30,6 @@ function App(){
     status='Winner : '+winner;
     alert('Winner is '+winner);
     setSquares(sq);
-    
   }
   else{
     status="Next player : "+(isNext?'X':'O');
